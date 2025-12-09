@@ -14,7 +14,7 @@ Prograti cohort Pragram Mentee @InfosysSpringboard
 
 
 ## 🔗 Social links or portfolio:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjeet-kaur-64252b2b0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/paramjeet-kaur05) 
 [![Portfolio](https://img.shields.io/badge/portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://paramjeetportfolio.vercel.app/) 
 
 ##  🛠️ Tech stack:

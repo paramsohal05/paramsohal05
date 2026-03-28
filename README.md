@@ -12,7 +12,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 🔹 Full Stack Developer Intern @ Infosys Springboard  
 🔹 AWS Elite Learning Cohort 3 @ Infosys Springboard (In collaboration with AWS)  
 🔹 Open Source Contributor @ GirlScript Summer of Code 2025  
-🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program 
+🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program <br> 
 🔹 Frontend Web developer Intern @ Edunet Foundation (IBM SkillsBuild)
 
 ---
@@ -20,7 +20,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ## 🧠 Skills:
 **Languages:** JavaScript, TypeScript, Python  
 **Frontend:** React.js, Next.js  
-**Styling :** Bootstrap, Tailwind CSS 
+**Styling :** Bootstrap, Tailwind CSS <br>
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **Cloud:** AWS, Cloud Computing Fundamentals  
@@ -35,7 +35,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ✔ [Web developement fundamentals](https://www.credly.com/badges/6742d1a1-852a-475f-8e93-e39bdbd0aa41)  
 ✔ [Python Certification](https://www.kaggle.com/learn/certification/paramjeetkaur05/python)  
 ✔ [Introduction to Cloud Computing](https://skillsoft.digitalbadges.skillsoft.com/a0e71122-f766-4869-9bd3-91936daf91bb#acc.QMad62oH)  
-✔ [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/qCp5_hTxRC-bsZRvKqI12g?identity__email=paramsohal05@gmail.com) 
+✔ [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/qCp5_hTxRC-bsZRvKqI12g?identity__email=paramsohal05@gmail.com) <br>
 ✔ [AI Agents Intensive Course](https://www.kaggle.com/certification/badges/paramjeetkaur05/105)  
 
 🚧 AWS AI & Cloud Practitioner *(In Progress)*
@@ -44,7 +44,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 
 ## 🌟 Projects:
 🔹 TaxPal – Personal Finance & Tax Estimator (MERN Stack)  
-🔹 RepoPilot AI – An agent to create and delete Github repositories using NLP 
+🔹 RepoPilot AI – An agent to create and delete Github repositories using NLP <br>
 🔹 Wonder Travel – Responsive Travel Website (HTML5, CSS3 & JavaScript)
 
 

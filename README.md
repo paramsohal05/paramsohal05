@@ -12,7 +12,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 🔹 Full Stack Developer Intern @ Infosys Springboard  
 🔹 AWS Elite Learning Cohort 3 @ Infosys Springboard (In collaboration with AWS)  
 🔹 Open Source Contributor @ GirlScript Summer of Code 2025  
-🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program
+🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program 
 🔹 Frontend Web developer Intern @ Edunet Foundation (IBM SkillsBuild)
 
 ---
@@ -23,9 +23,9 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 **Styling :** Bootstrap, Tailwind CSS 
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Cloud:** AWS, Cloud Computing Fundamentals 
-**Tools:** Docker, Git, GitHub, Postman, CI/CD 
-**AI:** Agentic AI, Google ADK, LLMS | Aspiring AI Engineer 
+**Cloud:** AWS, Cloud Computing Fundamentals  
+**Tools:** Docker, Git, GitHub, Postman, CI/CD  
+**AI:** Agentic AI, Google ADK, LLMS | Aspiring AI Engineer  
 **Concepts:** Data Structures and Algorithms, Problem Solving
 
 ---
@@ -35,7 +35,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ✔ [Web developement fundamentals](https://www.credly.com/badges/6742d1a1-852a-475f-8e93-e39bdbd0aa41)  
 ✔ [Python Certification](https://www.kaggle.com/learn/certification/paramjeetkaur05/python)  
 ✔ [Introduction to Cloud Computing](https://skillsoft.digitalbadges.skillsoft.com/a0e71122-f766-4869-9bd3-91936daf91bb#acc.QMad62oH)  
-✔ [Postman API Fundamentals Student Expert]([YOUR_LINK](https://badges.parchment.com/public/assertions/qCp5_hTxRC-bsZRvKqI12g?identity__email=paramsohal05@gmail.com) 
+✔ [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/qCp5_hTxRC-bsZRvKqI12g?identity__email=paramsohal05@gmail.com) 
 ✔ [AI Agents Intensive Course](https://www.kaggle.com/certification/badges/paramjeetkaur05/105)  
 
 🚧 AWS AI & Cloud Practitioner *(In Progress)*

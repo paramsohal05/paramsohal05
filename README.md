@@ -23,7 +23,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 **Styling :** Bootstrap, Tailwind CSS 
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Cloud:** AWS, Cloud Computing Fundamentals
+**Cloud:** AWS, Cloud Computing Fundamentals 
 **Tools:** Docker, Git, GitHub, Postman, CI/CD 
 **AI:** Agentic AI, Google ADK, LLMS | Aspiring AI Engineer 
 **Concepts:** Data Structures and Algorithms, Problem Solving
@@ -31,12 +31,14 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ---
 
 ## 📜 Certifications:
-✔ Frontend Web Developer  
-✔ Python  
-✔ Introduction to Cloud Computing  
-✔ Docker  
-✔ AI Agents Intensive Course  
-🚧 Preparing for AWS AI & Cloud Practitioner  
+
+✔ [Web developement fundamentals](https://www.credly.com/badges/6742d1a1-852a-475f-8e93-e39bdbd0aa41)  
+✔ [Python Certification](https://www.kaggle.com/learn/certification/paramjeetkaur05/python)  
+✔ [Introduction to Cloud Computing](https://skillsoft.digitalbadges.skillsoft.com/a0e71122-f766-4869-9bd3-91936daf91bb#acc.QMad62oH)  
+✔ [Postman API Fundamentals Student Expert]([YOUR_LINK](https://badges.parchment.com/public/assertions/qCp5_hTxRC-bsZRvKqI12g?identity__email=paramsohal05@gmail.com) 
+✔ [AI Agents Intensive Course](https://www.kaggle.com/certification/badges/paramjeetkaur05/105)  
+
+🚧 AWS AI & Cloud Practitioner *(In Progress)*
 
 ---
 
@@ -58,7 +60,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ---
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramsohal05&show_icons=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paramsohal05&show_icons=true)
 
 ---
 

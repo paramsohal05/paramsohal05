@@ -12,7 +12,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 🔹 Full Stack Developer Intern @ Infosys Springboard  
 🔹 AWS Elite Learning Cohort 3 @ Infosys Springboard (In collaboration with AWS)  
 🔹 Open Source Contributor @ GirlScript Summer of Code 2025  
-🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program by Infosys Springboard
+🔹 Cloud & AI fundamentals trainee @ Pragati: Path to Future Program
 🔹 Frontend Web developer Intern @ Edunet Foundation (IBM SkillsBuild)
 
 ---
@@ -25,7 +25,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 **Databases:** MongoDB, MySQL  
 **Cloud:** AWS, Cloud Computing Fundamentals
 **Tools:** Docker, Git, GitHub, Postman, CI/CD 
-**AI:** Agentic AI, Google ADK, LLMS concepts | Aspiring AI Engineer
+**AI:** Agentic AI, Google ADK, LLMS | Aspiring AI Engineer 
 **Concepts:** Data Structures and Algorithms, Problem Solving
 
 ---
@@ -42,8 +42,8 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 
 ## 🌟 Projects:
 🔹 TaxPal – Personal Finance & Tax Estimator (MERN Stack)  
-🔹 RepoPilot AI – An agent to create and delete Github repositories through NLP
-🔹 Wonder Travel – Responsive Travel Website 
+🔹 RepoPilot AI – An agent to create and delete Github repositories using NLP
+🔹 Wonder Travel – Responsive Travel Website (HTML5, CSS3 & JavaScript)
 
 
 👉 More projects available in repositories  
@@ -58,7 +58,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 ---
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramsohal05&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramsohal05&show_icons=true&cache_seconds=86400)
 
 ---
 

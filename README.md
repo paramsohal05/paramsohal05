@@ -44,7 +44,7 @@ Full Stack Developer (MERN) | Aspiring AI Engineer
 
 ## 🌟 Projects:
 🔹 TaxPal – Personal Finance & Tax Estimator (MERN Stack)  
-🔹 RepoPilot AI – An agent to create and delete Github repositories using NLP
+🔹 RepoPilot AI – An agent to create and delete Github repositories using NLP 
 🔹 Wonder Travel – Responsive Travel Website (HTML5, CSS3 & JavaScript)
 
 
